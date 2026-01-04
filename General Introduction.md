@@ -1,6 +1,6 @@
 # General Introduction to ISO 27001
 
-English :
+**English :**
 
 1. What is ISO 27001?
 	
@@ -53,7 +53,7 @@ Whether the objective is to protect sensitive information, meet commercial or re
 
 
 
-Français :
+**Français :**
 
 1. Qu’est-ce que la norme ISO 27001 ?
 
